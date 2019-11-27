@@ -1,0 +1,41 @@
+2019/11/04 15:03:36.104 [D] [proc.go:203]  init logger succ
+2019/11/04 15:03:37.396 [E] [redis.go:17]  ping redis failed, err:dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+2019/11/04 15:03:37.396 [E] [init.go:26]  init proxy2layer redis pool failed, err:dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+2019/11/04 15:03:37.396 [E] [main.go:26]  init redis failed, err:dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+2019/11/04 15:03:37.396 [E] [proc.go:203]  init sec kill failed, err:dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+2019/11/04 15:04:23.071 [D] [proc.go:203]  init logger succ
+2019/11/04 15:04:23.337 [D] [main.go:26]  init redis succ
+2019/11/04 15:04:23.350 [D] [init.go:34]  init etcd succ
+2019/11/04 15:04:23.350 [D] [main.go:26]  init etcd succ
+2019/11/04 15:04:23.350 [D] [init.go:41]  start get from etcd succ
+2019/11/04 15:04:23.353 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:12 raft_term:21  [key:"/zcz/secskill/product" create_revision:12 mod_revision:12 version:1 value:"[{\"ProductId\":6,\"StartTime\":1572591309,\"EndTime\":1572677709,\"Status\":0,\"Total\":20,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.9,\"SoldMaxLimit\":10}]" ] false 1}
+2019/11/04 15:04:23.353 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:12 mod_revision:12 version:1 value:"[{\"ProductId\":6,\"StartTime\":1572591309,\"EndTime\":1572677709,\"Status\":0,\"Total\":20,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.9,\"SoldMaxLimit\":10}]" ]
+2019/11/04 15:04:23.353 [D] [init.go:41]  sec info conf is [[{6 1572591309 1572677709 0 20 0 1 0.9 10 <nil>}]]
+2019/11/04 15:04:23.353 [D] [init.go:41]  update product info succ, data:[{6 1572591309 1572677709 0 20 0 1 0.9 10 <nil>}]
+2019/11/04 15:04:23.353 [D] [init.go:41]  init etcd watcher succ
+2019/11/04 15:04:23.353 [D] [main.go:26]  load product succ
+2019/11/04 15:04:23.353 [D] [asm_amd64.s:1357]  begin watch key:/zcz/secskill/product
+2019/11/04 15:04:23.359 [D] [main.go:26]  init all succ
+2019/11/04 15:04:23.359 [D] [proc.go:203]  init sec layer succ
+2019/11/04 15:04:23.359 [D] [service.go:6]  all process goroutine started
+2019/11/04 15:04:23.359 [D] [asm_amd64.s:1357]  read goroutine running
+2019/11/04 15:04:23.359 [D] [asm_amd64.s:1357]  handle user running
+2019/11/04 15:04:23.359 [D] [asm_amd64.s:1357]  handle write running
+2019/11/04 15:09:04.493 [D] [proc.go:203]  init logger succ
+2019/11/04 15:09:04.766 [D] [main.go:26]  init redis succ
+2019/11/04 15:09:04.781 [D] [init.go:34]  init etcd succ
+2019/11/04 15:09:04.781 [D] [main.go:26]  init etcd succ
+2019/11/04 15:09:04.781 [D] [init.go:41]  start get from etcd succ
+2019/11/04 15:09:04.783 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:12 raft_term:21  [key:"/zcz/secskill/product" create_revision:12 mod_revision:12 version:1 value:"[{\"ProductId\":6,\"StartTime\":1572591309,\"EndTime\":1572677709,\"Status\":0,\"Total\":20,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.9,\"SoldMaxLimit\":10}]" ] false 1}
+2019/11/04 15:09:04.783 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:12 mod_revision:12 version:1 value:"[{\"ProductId\":6,\"StartTime\":1572591309,\"EndTime\":1572677709,\"Status\":0,\"Total\":20,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.9,\"SoldMaxLimit\":10}]" ]
+2019/11/04 15:09:04.783 [D] [init.go:41]  sec info conf is [[{6 1572591309 1572677709 0 20 0 1 0.9 10 <nil>}]]
+2019/11/04 15:09:04.783 [D] [init.go:41]  update product info succ, data:[{6 1572591309 1572677709 0 20 0 1 0.9 10 <nil>}]
+2019/11/04 15:09:04.783 [D] [init.go:41]  init etcd watcher succ
+2019/11/04 15:09:04.783 [D] [asm_amd64.s:1357]  begin watch key:/zcz/secskill/product
+2019/11/04 15:09:04.783 [D] [main.go:26]  load product succ
+2019/11/04 15:09:04.789 [D] [main.go:26]  init all succ
+2019/11/04 15:09:04.789 [D] [proc.go:203]  init sec layer succ
+2019/11/04 15:09:04.789 [D] [asm_amd64.s:1357]  read goroutine running
+2019/11/04 15:09:04.789 [D] [asm_amd64.s:1357]  handle write running
+2019/11/04 15:09:04.789 [D] [asm_amd64.s:1357]  handle user running
+2019/11/04 15:09:04.789 [D] [service.go:6]  all process goroutine started

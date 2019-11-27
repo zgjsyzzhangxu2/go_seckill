@@ -1,0 +1,250 @@
+2019/10/30 14:17:19.575 [D]  init logger succ
+2019/10/30 14:17:19.810 [D]  init redis succ
+2019/10/30 14:17:19.810 [D]  init sec layer succ
+2019/10/30 14:17:19.810 [I]  service run exited
+2019/10/30 14:17:19.854 [I]  http server Running on http://:8080
+2019/10/30 14:22:50.032 [D] [proc.go:203]  init logger succ
+2019/10/30 14:22:50.395 [D] [main.go:27]  init redis succ
+2019/10/30 14:22:50.395 [D] [proc.go:203]  init sec layer succ
+2019/10/30 14:22:50.395 [I] [proc.go:203]  service run exited
+2019/10/30 14:22:50.455 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2019/10/30 14:30:33.074 [D]  init logger succ
+2019/10/30 14:30:33.341 [D]  init redis succ
+2019/10/30 14:30:33.341 [D]  init sec layer succ
+2019/10/30 14:30:33.341 [I]  service run exited
+2019/10/30 14:30:33.403 [I]  http server Running on http://:8080
+2019/10/30 14:32:04.807 [D] [proc.go:203]  init logger succ
+2019/10/30 14:32:05.068 [D] [main.go:27]  init redis succ
+2019/10/30 14:32:05.068 [D] [proc.go:203]  init sec layer succ
+2019/10/30 14:32:05.068 [I] [proc.go:203]  service run exited
+2019/10/30 14:32:05.110 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2019/10/30 14:35:49.012 [D] [proc.go:203]  init logger succ
+2019/10/30 14:35:49.388 [D] [main.go:27]  init redis succ
+2019/10/30 14:35:49.389 [D] [proc.go:203]  init sec layer succ
+2019/10/30 14:35:49.389 [I] [proc.go:203]  service run exited
+2019/10/30 14:35:49.435 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2019/10/30 14:36:08.442 [D] [proc.go:203]  init logger succ
+2019/10/30 14:36:08.668 [D] [main.go:27]  init redis succ
+2019/10/30 14:36:08.669 [D] [proc.go:203]  init sec layer succ
+2019/10/30 14:36:08.669 [I] [proc.go:203]  service run exited
+2019/10/30 14:36:08.710 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2019/10/30 14:36:25.108 [D]  init logger succ
+2019/10/30 14:36:25.337 [D]  init redis succ
+2019/10/30 14:36:25.337 [D]  init sec layer succ
+2019/10/30 14:36:25.337 [I]  service run exited
+2019/10/30 14:36:25.379 [I]  http server Running on http://:8080
+2019/10/30 14:37:46.426 [D]  init logger succ
+2019/10/30 14:37:46.703 [D]  init redis succ
+2019/10/30 14:37:46.703 [D]  init sec layer succ
+2019/10/30 14:37:46.703 [I]  service run exited
+2019/10/30 14:37:46.750 [I]  http server Running on http://:8080
+2019/10/30 14:39:15.947 [D]  init logger succ
+2019/10/30 14:39:16.187 [D]  init redis succ
+2019/10/30 14:39:16.187 [D]  init sec layer succ
+2019/10/30 14:39:16.187 [I]  service run exited
+2019/10/30 14:39:16.228 [I]  http server Running on http://:8080
+2019/10/30 14:39:57.480 [D]  init logger succ
+2019/10/30 14:39:57.718 [D]  init redis succ
+2019/10/30 14:39:57.718 [D]  init sec layer succ
+2019/10/30 14:39:57.718 [I]  service run exited
+2019/10/30 14:39:57.760 [I]  http server Running on http://:8080
+2019/10/30 14:42:46.356 [D]  init logger succ
+2019/10/30 14:42:46.603 [D]  init redis succ
+2019/10/30 14:42:46.603 [D]  init sec layer succ
+2019/10/30 14:42:46.603 [I]  service run exited
+2019/10/30 14:42:46.644 [I]  http server Running on http://:8080
+2019/10/30 14:43:10.186 [D] [proc.go:203]  init logger succ
+2019/10/30 14:43:10.426 [D] [main.go:27]  init redis succ
+2019/10/30 14:43:10.426 [D] [proc.go:203]  init sec layer succ
+2019/10/30 14:43:10.426 [I] [proc.go:203]  service run exited
+2019/10/30 14:43:10.468 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2019/10/30 14:44:30.070 [D] [proc.go:203]  init logger succ
+2019/10/30 14:44:30.307 [D] [main.go:27]  init redis succ
+2019/10/30 14:44:30.307 [D] [proc.go:203]  init sec layer succ
+2019/10/30 14:44:30.307 [I] [proc.go:203]  service run exited
+2019/10/30 14:44:30.349 [I] [asm_amd64.s:1357]  http server Running on http://:8080
+2019/10/30 14:45:16.342 [D] [proc.go:203]  init logger succ
+2019/10/30 14:45:16.580 [D] [main.go:27]  init redis succ
+2019/10/30 14:45:16.580 [D] [proc.go:203]  init sec layer succ
+2019/10/30 14:45:16.580 [I] [proc.go:203]  service run exited
+2019/10/30 14:45:16.621 [I] [asm_amd64.s:1357]  http server Running on http://:9092
+2019/10/30 14:46:06.800 [D] [proc.go:203]  init logger succ
+2019/10/30 14:46:07.055 [D] [main.go:27]  init redis succ
+2019/10/30 14:46:07.055 [D] [proc.go:203]  init sec layer succ
+2019/10/30 14:46:07.055 [I] [proc.go:203]  service run exited
+2019/10/30 14:46:07.099 [I] [asm_amd64.s:1357]  http server Running on http://:9092
+2019/10/30 15:18:54.443 [D] [proc.go:203]  init logger succ
+2019/10/30 15:18:54.692 [D] [main.go:27]  init redis succ
+2019/10/30 15:18:54.692 [D] [proc.go:203]  init sec layer succ
+2019/10/30 15:18:54.692 [I] [proc.go:203]  service run exited
+2019/10/30 15:18:54.735 [I] [asm_amd64.s:1357]  http server Running on http://:9092
+2019/10/30 15:23:27.783 [D] [proc.go:203]  init logger succ
+2019/10/30 15:23:28.035 [D] [main.go:27]  init redis succ
+2019/10/30 15:23:28.080 [D] [init.go:34]  init etcd succ
+2019/10/30 15:23:28.080 [D] [main.go:27]  init etcd succ
+2019/10/30 15:23:28.081 [D] [proc.go:203]  init sec layer succ
+2019/10/30 15:23:28.081 [I] [proc.go:203]  service run exited
+2019/10/30 15:23:28.130 [I] [asm_amd64.s:1357]  http server Running on http://:9092
+2019/10/30 15:25:14.291 [D] [proc.go:203]  init logger succ
+2019/10/30 15:25:14.581 [D] [main.go:27]  init redis succ
+2019/10/30 15:25:14.595 [D] [init.go:34]  init etcd succ
+2019/10/30 15:25:14.595 [D] [main.go:27]  init etcd succ
+2019/10/30 15:25:14.595 [D] [proc.go:203]  init sec layer succ
+2019/10/30 15:25:14.595 [I] [proc.go:203]  service run exited
+2019/10/30 15:25:14.643 [I] [asm_amd64.s:1357]  http server Running on http://:9092
+2019/10/30 15:53:06.233 [D] [proc.go:203]  init logger succ
+2019/10/30 15:53:06.472 [D] [main.go:26]  init redis succ
+2019/10/30 15:53:06.485 [D] [init.go:34]  init etcd succ
+2019/10/30 15:53:06.485 [D] [main.go:26]  init etcd succ
+2019/10/30 15:53:06.485 [D] [init.go:41]  start get from etcd succ
+2019/10/30 15:53:06.490 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:6 raft_term:15  [key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ] false 1}
+2019/10/30 15:53:06.490 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ]
+2019/10/30 15:53:06.490 [D] [init.go:41]  sec info conf is [[{1022 1574665514 1574665614 0 10000 0 0 0 0} {1052 1517495965 1517582365 0 900 0 0 0 0} {1062 1572338046 1572510846 0 900 0 0 0 0}]]
+2019/10/30 15:53:06.490 [D] [init.go:41]  update product info succ, data:[{1022 1574665514 1574665614 0 10000 0 0 0 0} {1052 1517495965 1517582365 0 900 0 0 0 0} {1062 1572338046 1572510846 0 900 0 0 0 0}]
+2019/10/30 15:53:06.490 [D] [init.go:41]  init etcd watcher succ
+2019/10/30 15:53:06.490 [D] [main.go:26]  load product succ
+2019/10/30 15:53:06.490 [D] [proc.go:203]  init sec layer succ
+2019/10/30 15:53:06.490 [I] [proc.go:203]  service run exited
+2019/10/30 19:02:34.460 [D] [proc.go:203]  init logger succ
+2019/10/30 19:02:34.745 [D] [main.go:26]  init redis succ
+2019/10/30 19:02:34.759 [D] [init.go:34]  init etcd succ
+2019/10/30 19:02:34.759 [D] [main.go:26]  init etcd succ
+2019/10/30 19:02:34.759 [D] [init.go:41]  start get from etcd succ
+2019/10/30 19:02:34.763 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:6 raft_term:16  [key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ] false 1}
+2019/10/30 19:02:34.763 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ]
+2019/10/30 19:02:34.763 [D] [init.go:41]  sec info conf is [[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]]
+2019/10/30 19:02:34.763 [D] [init.go:41]  update product info succ, data:[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]
+2019/10/30 19:02:34.763 [D] [init.go:41]  init etcd watcher succ
+2019/10/30 19:02:34.763 [D] [main.go:26]  load product succ
+2019/10/30 19:02:34.763 [D] [proc.go:203]  init sec layer succ
+2019/10/30 19:02:34.763 [I] [proc.go:203]  service run exited
+2019/10/30 19:03:31.081 [D] [proc.go:203]  init logger succ
+2019/10/30 19:03:31.339 [D] [main.go:26]  init redis succ
+2019/10/30 19:03:31.353 [D] [init.go:34]  init etcd succ
+2019/10/30 19:03:31.353 [D] [main.go:26]  init etcd succ
+2019/10/30 19:03:31.353 [D] [init.go:41]  start get from etcd succ
+2019/10/30 19:03:31.356 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:6 raft_term:16  [key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ] false 1}
+2019/10/30 19:03:31.356 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ]
+2019/10/30 19:03:31.356 [D] [init.go:41]  sec info conf is [[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]]
+2019/10/30 19:03:31.356 [D] [init.go:41]  update product info succ, data:[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]
+2019/10/30 19:03:31.356 [D] [init.go:41]  init etcd watcher succ
+2019/10/30 19:03:31.356 [D] [main.go:26]  load product succ
+2019/10/30 19:03:31.356 [D] [asm_amd64.s:1357]  begin watch key:/zcz/secskill/product
+2019/10/30 19:03:31.356 [D] [proc.go:203]  init sec layer succ
+2019/10/30 19:03:31.356 [I] [proc.go:203]  service run exited
+2019/10/30 19:24:29.018 [D] [proc.go:203]  init logger succ
+2019/10/30 19:24:29.284 [D] [main.go:26]  init redis succ
+2019/10/30 19:24:29.304 [D] [init.go:34]  init etcd succ
+2019/10/30 19:24:29.304 [D] [main.go:26]  init etcd succ
+2019/10/30 19:24:29.304 [D] [init.go:41]  start get from etcd succ
+2019/10/30 19:24:29.309 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:6 raft_term:16  [key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ] false 1}
+2019/10/30 19:24:29.309 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ]
+2019/10/30 19:24:29.309 [D] [init.go:41]  sec info conf is [[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]]
+2019/10/30 19:24:29.310 [D] [init.go:41]  update product info succ, data:[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]
+2019/10/30 19:24:29.310 [D] [init.go:41]  init etcd watcher succ
+2019/10/30 19:24:29.310 [D] [asm_amd64.s:1357]  begin watch key:/zcz/secskill/product
+2019/10/30 19:24:29.310 [D] [main.go:26]  load product succ
+2019/10/30 19:24:29.318 [D] [main.go:26]  init all succ
+2019/10/30 19:24:29.319 [D] [proc.go:203]  init sec layer succ
+2019/10/30 19:24:29.319 [D] [asm_amd64.s:1357]  read goroutine running
+2019/10/30 19:24:29.319 [D] [asm_amd64.s:1357]  handle write running
+2019/10/30 19:24:29.319 [D] [service.go:6]  all process goroutine started
+2019/10/30 19:24:29.319 [D] [asm_amd64.s:1357]  handle user running
+2019/10/30 19:24:29.319 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":1062,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-10-29T17:44:47.2082874+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/10/30 19:24:29.320 [W] [asm_amd64.s:1357]  req[{1062     0  2019-10-29 17:44:47.2082874 +0800 CST 127.0.0.1 }] is expire
+2019/10/31 09:32:45.887 [D] [proc.go:203]  init logger succ
+2019/10/31 09:32:46.145 [D] [main.go:26]  init redis succ
+2019/10/31 09:32:46.159 [D] [init.go:34]  init etcd succ
+2019/10/31 09:32:46.160 [D] [main.go:26]  init etcd succ
+2019/10/31 09:32:46.160 [D] [init.go:41]  start get from etcd succ
+2019/10/31 09:32:46.163 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:6 raft_term:17  [key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ] false 1}
+2019/10/31 09:32:46.163 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ]
+2019/10/31 09:32:46.163 [D] [init.go:41]  sec info conf is [[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]]
+2019/10/31 09:32:46.163 [D] [init.go:41]  update product info succ, data:[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]
+2019/10/31 09:32:46.163 [D] [init.go:41]  init etcd watcher succ
+2019/10/31 09:32:46.163 [D] [main.go:26]  load product succ
+2019/10/31 09:32:46.163 [D] [asm_amd64.s:1357]  begin watch key:/zcz/secskill/product
+2019/10/31 09:32:46.170 [D] [main.go:26]  init all succ
+2019/10/31 09:32:46.170 [D] [proc.go:203]  init sec layer succ
+2019/10/31 09:32:46.171 [D] [asm_amd64.s:1357]  read goroutine running
+2019/10/31 09:32:46.170 [D] [asm_amd64.s:1357]  handle write running
+2019/10/31 09:32:46.171 [D] [service.go:6]  all process goroutine started
+2019/10/31 09:32:46.171 [D] [asm_amd64.s:1357]  handle user running
+2019/10/31 15:30:18.068 [D] [proc.go:203]  init logger succ
+2019/10/31 15:30:18.317 [D] [main.go:26]  init redis succ
+2019/10/31 15:30:18.365 [D] [init.go:34]  init etcd succ
+2019/10/31 15:30:18.365 [D] [main.go:26]  init etcd succ
+2019/10/31 15:30:18.365 [D] [init.go:41]  start get from etcd succ
+2019/10/31 15:30:18.370 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:6 raft_term:17  [key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ] false 1}
+2019/10/31 15:30:18.371 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:2 mod_revision:6 version:5 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900}]" ]
+2019/10/31 15:30:18.371 [D] [init.go:41]  sec info conf is [[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]]
+2019/10/31 15:30:18.371 [D] [init.go:41]  update product info succ, data:[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>}]
+2019/10/31 15:30:18.371 [D] [init.go:41]  init etcd watcher succ
+2019/10/31 15:30:18.371 [D] [main.go:26]  load product succ
+2019/10/31 15:30:18.371 [D] [asm_amd64.s:1357]  begin watch key:/zcz/secskill/product
+2019/10/31 15:30:18.376 [D] [main.go:26]  init all succ
+2019/10/31 15:30:18.376 [D] [proc.go:203]  init sec layer succ
+2019/10/31 15:30:18.376 [D] [asm_amd64.s:1357]  read goroutine running
+2019/10/31 15:30:18.376 [D] [service.go:6]  all process goroutine started
+2019/10/31 15:30:18.376 [D] [asm_amd64.s:1357]  handle user running
+2019/10/31 15:30:18.376 [D] [asm_amd64.s:1357]  handle write running
+2019/11/01 11:08:24.466 [D] [proc.go:203]  init logger succ
+2019/11/01 11:08:24.995 [D] [main.go:26]  init redis succ
+2019/11/01 11:08:25.019 [D] [init.go:34]  init etcd succ
+2019/11/01 11:08:25.019 [D] [main.go:26]  init etcd succ
+2019/11/01 11:08:25.019 [D] [init.go:41]  start get from etcd succ
+2019/11/01 11:08:25.023 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:9 raft_term:18  [key:"/zcz/secskill/product" create_revision:2 mod_revision:9 version:8 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1572774414,\"EndTime\":1572860814,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":20,\"BuyRate\":0.5,\"SoldMaxLimit\":20},{\"ProductId\":2,\"StartTime\":1572774415,\"EndTime\":1572860815,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.2,\"SoldMaxLimit\":5},{\"ProductId\":2,\"StartTime\":1572774414,\"EndTime\":1572860815,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.5,\"SoldMaxLimit\":5}]" ] false 1}
+2019/11/01 11:08:25.024 [D] [init.go:41]  key[0] valud[key:"/zcz/secskill/product" create_revision:2 mod_revision:9 version:8 value:"[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1572774414,\"EndTime\":1572860814,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":20,\"BuyRate\":0.5,\"SoldMaxLimit\":20},{\"ProductId\":2,\"StartTime\":1572774415,\"EndTime\":1572860815,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.2,\"SoldMaxLimit\":5},{\"ProductId\":2,\"StartTime\":1572774414,\"EndTime\":1572860815,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.5,\"SoldMaxLimit\":5}]" ]
+2019/11/01 11:08:25.024 [D] [init.go:41]  sec info conf is [[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>} {2 1572774414 1572860814 0 10 0 20 0.5 20 <nil>} {2 1572774415 1572860815 0 10 0 1 0.2 5 <nil>} {2 1572774414 1572860815 0 10 0 1 0.5 5 <nil>}]]
+2019/11/01 11:08:25.024 [D] [init.go:41]  update product info succ, data:[{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>} {2 1572774414 1572860814 0 10 0 20 0.5 20 <nil>} {2 1572774415 1572860815 0 10 0 1 0.2 5 <nil>} {2 1572774414 1572860815 0 10 0 1 0.5 5 <nil>}]
+2019/11/01 11:08:25.024 [D] [init.go:41]  init etcd watcher succ
+2019/11/01 11:08:25.024 [D] [main.go:26]  load product succ
+2019/11/01 11:08:25.024 [D] [asm_amd64.s:1357]  begin watch key:/zcz/secskill/product
+2019/11/01 11:08:25.034 [D] [main.go:26]  init all succ
+2019/11/01 11:08:25.034 [D] [proc.go:203]  init sec layer succ
+2019/11/01 11:08:25.034 [D] [asm_amd64.s:1357]  read goroutine running
+2019/11/01 11:08:25.034 [D] [asm_amd64.s:1357]  handle user running
+2019/11/01 11:08:25.034 [D] [asm_amd64.s:1357]  handle write running
+2019/11/01 11:08:25.034 [D] [service.go:6]  all process goroutine started
+2019/11/01 11:11:23.988 [D] [asm_amd64.s:1357]  get config from etcd, PUT "/zcz/secskill/product" : "[{\"ProductId\":1022,\"StartTime\":1574665514,\"EndTime\":1574665614,\"Status\":0,\"Total\":10000,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1052,\"StartTime\":1517495965,\"EndTime\":1517582365,\"Status\":0,\"Total\":900,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":1062,\"StartTime\":1572338046,\"EndTime\":1572510846,\"Status\":0,\"Total\":900,\"Left\":0,\"OnePersonBuyLimit\":0,\"BuyRate\":0,\"SoldMaxLimit\":0},{\"ProductId\":2,\"StartTime\":1572774414,\"EndTime\":1572860814,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":20,\"BuyRate\":0.5,\"SoldMaxLimit\":20},{\"ProductId\":2,\"StartTime\":1572774415,\"EndTime\":1572860815,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.2,\"SoldMaxLimit\":5},{\"ProductId\":2,\"StartTime\":1572774414,\"EndTime\":1572860815,\"Status\":0,\"Total\":10,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.5,\"SoldMaxLimit\":5},{\"ProductId\":6,\"StartTime\":1572577960,\"EndTime\":1572656920,\"Status\":0,\"Total\":20,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.9,\"SoldMaxLimit\":10}]"
+
+2019/11/01 11:11:23.988 [D] [asm_amd64.s:1357]  get config from etcd succ, [{1022 1574665514 1574665614 0 10000 0 0 0 0 <nil>} {1052 1517495965 1517582365 0 900 0 0 0 0 <nil>} {1062 1572338046 1572510846 0 900 0 0 0 0 <nil>} {2 1572774414 1572860814 0 10 0 20 0.5 20 <nil>} {2 1572774415 1572860815 0 10 0 1 0.2 5 <nil>} {2 1572774414 1572860815 0 10 0 1 0.5 5 <nil>} {6 1572577960 1572656920 0 20 0 1 0.9 10 <nil>}]
+2019/11/01 11:14:56.860 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:14:56.856688+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:14:56.860 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:14:56.856688 +0800 CST 127.0.0.1 }
+2019/11/01 11:15:19.833 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:15:19.8332177+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:15:19.834 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:15:19.8332177 +0800 CST 127.0.0.1 }
+2019/11/01 11:15:27.334 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:15:27.3341672+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:15:27.334 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:15:27.3341672 +0800 CST 127.0.0.1 }
+2019/11/01 11:15:31.193 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:15:31.1933585+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:15:31.193 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:15:31.1933585 +0800 CST 127.0.0.1 }
+2019/11/01 11:15:32.370 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:15:32.3695376+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:15:32.370 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:15:32.3695376 +0800 CST 127.0.0.1 }
+2019/11/01 11:15:33.362 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:15:33.3621703+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:15:33.362 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:15:33.3621703 +0800 CST 127.0.0.1 }
+2019/11/01 11:15:34.260 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:15:34.2598202+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:15:34.260 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:15:34.2598202 +0800 CST 127.0.0.1 }
+2019/11/01 11:15:51.325 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:15:51.3254054+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:15:51.326 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:15:51.3254054 +0800 CST 127.0.0.1 }
+2019/11/01 11:15:52.134 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T11:15:52.1335554+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 11:15:52.134 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 11:15:52.1335554 +0800 CST 127.0.0.1 }
+2019/11/01 13:49:23.715 [D] [proc.go:203]  init logger succ
+2019/11/01 13:49:24.098 [D] [main.go:26]  init redis succ
+2019/11/01 13:49:24.115 [D] [init.go:34]  init etcd succ
+2019/11/01 13:49:24.115 [D] [main.go:26]  init etcd succ
+2019/11/01 13:49:24.115 [D] [init.go:41]  start get from etcd succ
+2019/11/01 13:49:24.118 [D] [init.go:41]  get from etcd succ, resp:&{cluster_id:14841639068965178418 member_id:10276657743932975437 revision:11 raft_term:20  [] false 0}
+2019/11/01 13:49:24.118 [D] [init.go:41]  update product info succ, data:[]
+2019/11/01 13:49:24.118 [D] [init.go:41]  init etcd watcher succ
+2019/11/01 13:49:24.118 [D] [asm_amd64.s:1357]  begin watch key:/zcz/secskill/product
+2019/11/01 13:49:24.118 [D] [main.go:26]  load product succ
+2019/11/01 13:49:24.124 [D] [main.go:26]  init all succ
+2019/11/01 13:49:24.124 [D] [proc.go:203]  init sec layer succ
+2019/11/01 13:49:24.124 [D] [service.go:6]  all process goroutine started
+2019/11/01 13:49:24.125 [D] [asm_amd64.s:1357]  read goroutine running
+2019/11/01 13:49:24.125 [D] [asm_amd64.s:1357]  handle user running
+2019/11/01 13:49:24.125 [D] [asm_amd64.s:1357]  handle write running
+2019/11/01 14:50:42.067 [D] [asm_amd64.s:1357]  get config from etcd, PUT "/zcz/secskill/product" : "[{\"ProductId\":6,\"StartTime\":1572591309,\"EndTime\":1572677709,\"Status\":0,\"Total\":20,\"Left\":0,\"OnePersonBuyLimit\":1,\"BuyRate\":0.9,\"SoldMaxLimit\":10}]"
+
+2019/11/01 14:50:42.067 [D] [asm_amd64.s:1357]  get config from etcd succ, [{6 1572591309 1572677709 0 20 0 1 0.9 10 <nil>}]
+2019/11/01 14:56:47.224 [D] [asm_amd64.s:1357]  pop from queue, data:{"ProductId":6,"Source":"","AuthCode":"","SecTime":"","Nance":"","UserId":0,"UserAuthSign":"","AccessTime":"2019-11-01T14:56:47.222978+08:00","ClientAddr":"127.0.0.1","ClientRefence":""}
+2019/11/01 14:56:47.224 [D] [asm_amd64.s:1357]  begin process request:&{6     0  2019-11-01 14:56:47.222978 +0800 CST 127.0.0.1 }
